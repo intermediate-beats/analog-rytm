@@ -1,6 +1,4 @@
 # Analog RYTM
-Welcome to the Intermediate Beats Analog RYTM pages.
-
 TODO: Move these into individual sections once some logical categories naturally emerge.
 
 ## Time Stretch

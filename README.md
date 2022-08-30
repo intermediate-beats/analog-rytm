@@ -17,7 +17,7 @@ In Velocity Mod, there is a setting in order to have 1 velocity value = 1 semito
 - Play a tuned sample.
 - Find the fundamental of your choice.
 - Parameter-lock the velocity.
-- Apply a square lfo with depth = +12 (1 octave up / down).
+- Apply a Square LFO with depth = +12 (1 octave up / down).
 ## Sample Chains
 ## Single-Cycle Waveforms
 ## Erase all Parameter Locks
